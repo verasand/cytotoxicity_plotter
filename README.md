@@ -1,4 +1,4 @@
-# 🧪 Cytotox & Hemolysis Plotter
+# 🧪 Cytotoxicity & Hemolysis Plotter
 
 This notebook allows you to upload `.xlsx` files and generate clean, consistent plots of **cytotoxicity** or **hemolysis** data from experimental results.
 
