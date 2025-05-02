@@ -56,7 +56,7 @@ Each `.xlsx` file should follow this structure:
 
 ## ▶️ Launch in Google Colab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/verasand/cytotox_plotter/blob/main/cytotox_plotter.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/verasand/cytotoxicity_plotter/blob/main/cytotox_plotter.ipynb)
 
 ---
 
